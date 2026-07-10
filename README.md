@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:00ff41,100:000000&text=RYAN%20BOT&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-<h1>🤖 RYAN BOT</h1>
+<h1>🤖 https://github.com/veersemie-ai/Ryan-mxd</h1>
 
 <p>
 A powerful multi-device WhatsApp Bot built with Node.js.
@@ -18,7 +18,7 @@ A powerful multi-device WhatsApp Bot built with Node.js.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/RYAN-BOT">
+<a href="https://github.com/veersemie-ai/Ryan-mxd">
 <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
 </a>
 
@@ -112,8 +112,7 @@ A powerful multi-device WhatsApp Bot built with Node.js.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RYAN-BOT
-
+https://github.com/veersemie-ai/Ryan-mxd
 cd RYAN-BOT
 
 npm install
